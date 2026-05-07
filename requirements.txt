@@ -1,0 +1,6 @@
+anthropic
+python-dotenv
+chromadb #May also use pinecone
+pypdf
+langchain-text-splitters
+sentence-transformers
